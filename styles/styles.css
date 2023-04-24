@@ -1,0 +1,132 @@
+
+
+.main{
+    background-color:rgb(255, 255, 255);
+    /*background-image:url(https://oir.mobi/uploads/posts/2021-03/thumbs/1616590635_24-p-zelenii-fon-temnii-25.jpg);*/
+    margin-top: 50px;
+    align-content: center;
+    align-self: center;
+    margin: 0 auto;                                  
+    text-align: center;                             /*розташування тексту*/ 
+    padding: 50px;                                  /*розмір*/
+    width: 300px;                                   /*довжина*/  
+    border-radius: 50px;                            /*округленість рамки*/
+    border-color:rgba(93, 128, 121, 0.988);       /*колір рамки*/
+    border-style: solid;                            /*вид рамки*/
+
+}
+.inp{
+    background-color: rgb(213, 206, 206);
+    border-color:rgb(136, 108, 108);
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 0px;
+    width: 95%;
+    margin-bottom: 10px;
+    padding: 10px;
+    align-content: center;
+    
+}
+
+.btn{
+    border-radius: 50px;
+    margin-top: 15px;
+    margin-left: 0px;
+    width: 50%;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color:rgb(136, 108, 108);
+ 
+}
+#output{
+    background-color:rgb(213, 206, 206);
+    margin-left: 30px;
+    width: 70%;
+    margin-bottom: 15px;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: 2px;
+    border-style: solid;
+    border-color:rgb(136, 108, 108);
+}
+.dsh{
+    color:rgb(85, 72, 72);  
+    margin-left: 16cm;
+}
+.vd{
+    width: 50%;
+    margin-bottom: -30px;
+}
+.umova{
+    margin-left: 16.2cm;
+    margin-top: -50px;
+    text-align: left;
+}
+.logo{
+    margin-left: 35cm;
+    padding-top: 3cm;
+    border-radius: 50%;
+}
+.ltext{
+    position:absolute;
+    left:35cm;
+    bottom: 0.8cm;
+    right:0.5cm;
+    background:rgba(255,255,255, 0.7);
+    padding:28px;
+    display:none;
+    color:rgb(85, 72, 72);
+}
+.logo:hover .ltext{
+    display:block;
+    }
+.vvid{
+    background-color:rgb(255, 255, 255);
+    margin-top: 50px;
+    align-content: center;
+    align-self: center;
+    margin: auto;
+    text-align: center;
+    padding: 50px;                            /*розмір основи*/
+    width: 300px;                              /*latimea*/
+    border-radius: 50px;                         /*округленість */
+    border-color:rgba(93, 128, 121, 0.988);   /*колір рамки*/
+    border-style: solid;                         /*вид рамки*/
+}
+.vvid textarea{  
+    resize: none;                         /*не міняється розмір ячейки*/
+    border: 2px;                              /*рамка*/
+    color: rgb(85, 72, 72);                 /*колір букв*/
+    background-color:rgb(213, 206, 206);    /*колір основи*/
+    font-size: 15px;              /*розмір букв*/  
+    padding: 40px;                /*розмір ячейки*/
+    border-radius: 30px;          /*округленість */
+    margin-top: -0.3cm;           /*висота (відносно предмета, що вище)*/ 
+    border-style: solid;          /*вид рамки*/
+       
+}
+.simvol{
+    font-size: 15px;                 /*розмір букв*/ 
+    color: rgb(56, 107, 87);        /*колір тексту*/
+    margin-left: 40px;                /*перемістити на право*/
+    width: 70%;                       /*lungimea*/
+    margin-bottom: -0.3cm;            /*висота відносно предмета, що нижче*/
+    padding: 0px;                     /*розмір рамки*/
+    margin-top: 26px;                 /*висота (відносно предмета, що вище)*/
+    border-radius: 70px;              /*округленість рамки*/
+    border: 2px;                      /*товщина рамки*/
+    border-color:rgb(85, 72, 72);   /*колір рамки*/
+    border-style: solid;              /*вид рамки*/
+   
+}
+.silks{
+    text-decoration: none;
+    font-size: 20px; 
+    
+}
+   
+   
+   
+   
+    
